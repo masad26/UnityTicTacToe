@@ -1,4 +1,6 @@
-# Unity Tic Tac Toe Game
+# Unity Tic Tac Toe Game (Starting Structure)
+
+**Please Note:** This repository contains the starting structure of a Tic Tac Toe game and is not a complete game.
 
 A simple and customizable mobile Tic Tac Toe game built with Unity. Play on various board sizes and challenge your friends. Includes win, lose, and draw logic.
 
